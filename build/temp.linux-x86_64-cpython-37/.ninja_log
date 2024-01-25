@@ -1,0 +1,6 @@
+# ninja log v5
+1	16281	1705670805157630830	/home/wyy_12321268/VidGuard3D/vid-guard-3d-back/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	3d20bd2e98753848
+1	34106	1705670822997954108	/home/wyy_12321268/VidGuard3D/vid-guard-3d-back/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	ccfe49acaf25a7c7
+16	2719	1705672328345165519	/home/wyy_12321268/VidGuard3D/vid-guard-3d-back/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	6199f88c1a1514e0
+16	2823	1705672328449150571	/home/wyy_12321268/VidGuard3D/vid-guard-3d-back/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	c798583859639fe4
+16	7002	1705672332628551637	/home/wyy_12321268/VidGuard3D/vid-guard-3d-back/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	2418c8433a2819fb
